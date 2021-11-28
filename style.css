@@ -2,9 +2,11 @@ body{
   color:black; 
   background-color:darksalmon;
 }
-#css-anatomy-heading{
+h1{
   color:darkolivegreen;
+  text-decoration:underline;
 }
-<h1>{
-  color:darkolivegreen;
-  text-decoration:u
+h2{
+  color:darkorchid;
+  text-e
+}
