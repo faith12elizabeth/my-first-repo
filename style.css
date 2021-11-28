@@ -2,6 +2,10 @@ body{
   color:black; 
   background-color:darksalmon;
 }
-h{
-  color:white;
+#css-anatomy-heading{
+  color:darkolivegreen;
+}
+<h1>{
+  color:darkolivegreen;
+  text-decoration:underline;
 }
