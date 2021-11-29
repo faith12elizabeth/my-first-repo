@@ -10,3 +10,7 @@ h2 {
   color: darkorchid;
   text-decoration: underline;
 }
+#css-anatomy-heading {
+  color: red;
+    textdecoration:underline;
+}
