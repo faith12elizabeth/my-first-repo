@@ -1,20 +1,20 @@
 body {
   color: black;
   background-color: darksalmon;
-  font-family:fantasy;
+  font-family: papyrus,fantasy;
 }
 h1 {
   color: darkolivegreen;
   text-decoration: underline;
-  font-family:serif;
+  font-family: se
 }
 h2 {
   color: darkorchid;
 }
 #css-anatomy-heading {
   color: red;
-    textdecoration:underline;
+  textdecoration: underline;
 }
-.underline{
-  text-decoration:underline;
+.underline {
+  text-decoration: underline;
 }
