@@ -8,9 +8,11 @@ h1 {
 }
 h2 {
   color: darkorchid;
-  text-decoration: underline;
 }
 #css-anatomy-heading {
   color: red;
     textdecoration:underline;
+}
+.underline{
+  text-decoration:underline;
 }
