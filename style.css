@@ -1,10 +1,12 @@
 body {
   color: black;
   background-color: darksalmon;
+  font-family:fantasy;
 }
 h1 {
   color: darkolivegreen;
   text-decoration: underline;
+  font-family:serif;
 }
 h2 {
   color: darkorchid;
