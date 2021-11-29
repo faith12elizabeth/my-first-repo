@@ -1,7 +1,8 @@
 body {
   color: black;
-  background-color: darksalmon;
+  background-color: moccasin;
   font-family: papyrus,fantasy;
+  font-size:20px;
 }
 h1 {
   color: darkolivegreen;
@@ -12,7 +13,7 @@ h2 {
   color: darkorchid;
 }
 #css-anatomy-heading {
-  color: red;
+  color: mediumspringgreen;
   textdecoration: underline;
 }
 .underline {
