@@ -1,6 +1,6 @@
 body {
   color: black;
-  background-color: moccasin;
+  background-color: lightsteelblue;
   font-family: papyrus,fantasy;
   font-size:20px;
 }
@@ -13,15 +13,15 @@ h2 {
   color: darkorchid;
 }
 #css-anatomy-heading {
-  color: mediumspringgreen;
+  color: forestgreen;
   textdecoration: underline;
 }
 .underline {
   text-decoration: underline;
 }
 #css-talk{
-  font-family:lucida handwriting;
-  font-size:15px;
+  font-family:garamond,serif;
+  font-size:18px;
 }
 .bold{
   font-weight:bold;
